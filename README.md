@@ -1,6 +1,6 @@
 # DOT-AND-BOX
 
-##HOW TO PLAY:
+###HOW TO PLAY:
   1) INSTALL RAQUIRED MODULE
        A) pip install easygui
        B) pip install pygame
